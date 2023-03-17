@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+https://react-taskk-1-deploy1.netlify.app/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7d7b01c9-22c0-40a7-9a8b-0c2ed65a8996/deploy-status)](https://app.netlify.com/sites/react-taskk-1-deploy1/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
